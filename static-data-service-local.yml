@@ -1,1 +1,2 @@
-message: LOKAL
+repository:
+ location: memory
