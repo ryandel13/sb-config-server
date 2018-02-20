@@ -1,2 +1,5 @@
 management:
-  context-path: /admin
+  context-path: /admingfgdg
+  
+execution:
+  location: default
