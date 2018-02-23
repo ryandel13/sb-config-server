@@ -1,0 +1,5 @@
+management:
+  context-path: /admin
+  
+execution:
+  location: local

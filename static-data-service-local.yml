@@ -1,2 +1,4 @@
+message: DEFAULT
+
 repository:
  location: memory
