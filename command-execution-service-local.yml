@@ -1,2 +1,5 @@
 repository:
  location: memory
+ 
+execution:
+ location: local

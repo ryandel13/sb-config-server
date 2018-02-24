@@ -1,2 +1,5 @@
 repository:
  location: database
+
+execution:
+ location: remote
